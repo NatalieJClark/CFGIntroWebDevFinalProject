@@ -1,0 +1,240 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DANCE:LDN</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400;500;700;900&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" 
+    integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css" type="text/css">
+</head>
+
+<body>
+
+    <header>
+
+        <!-- Top Navbar -->
+        <nav>
+
+            <div>
+                <a class="brand" href="./index.html"><img src="./images/DanceLdnLogo.png" 
+                    alt="DANCE:LDN logo" height="65px" width="250px"></a>
+            </div>  
+
+            <div class="topnav" id="myTopnav">
+                <ul>
+                    <li><a href="./index.html#about"> ABOUT </a></li>
+                    <li><a href="./studio.html"> STUDIO </a></li>
+                    <li><a href="#contact"> CONTACT </a></li>
+                    <li><a href="./book.html"> BOOK </a></li>
+                    <li><a href="javascript:void(0);" class="icon" onclick="myFunction()">
+                    <span class="fa fa-bars" aria-hidden="true"></span></a></li>
+                </ul>
+            </div>
+
+        </nav>
+
+    </header>
+
+    <main>
+
+         <!-- Landing Image and CTA Button -->
+         <div class="landingContainer">
+            <img src="./images/BookLanding.png" alt="Dance Class">
+            <h1> BOOKING </h1>
+            <h2> Our varied schedule of tap, ballet and jazz classes is updated on a weekly basis.
+            </h2>
+            <a href="#book"><button class="btn">BOOK NOW</button></a>
+        </div>
+
+        <!-- Booking -->
+        <section id="book">
+
+            <div>
+                <h2 class="subtitle"> Booking </h2>
+            </div>
+
+            <div class="row">
+
+                <div class="column">
+                    <div class="card">
+                        <span class="fa fa-table" aria-hidden="true"></span>
+                        <br>
+                        <h2 class="heading"> CHOOSE </h2>
+                        <p class="text"> Choose your class from this weeks schedule, avaliable below or via our newsletter.
+                        </p>
+                    </div>
+                </div>
+
+                <div class="column">
+                    <div class="card">
+                        <span class="fa fa-phone" aria-hidden="true"></span>
+                        <br>
+                        <h2 class="heading"> RING </h2>
+                        <p class="text"> Ring us on 0800 123 4567 to place your booking.
+                            <br> Classes are £5 each or 3 for £12! </p>
+                    </div>
+                </div>
+
+                <div class="column">
+                    <div class="card">
+                        <span class="fa fa-qrcode" aria-hidden="true"></span>
+                        <br>
+                        <h2 class="heading"> REGISTER </h2>
+                        <p class="text"> Use the QR code in your confirmation email, to register when you arrive. </p>
+                    </div>
+                </div>
+
+            </div>
+
+        </section>
+
+        <!-- Schedule -->
+        <section>
+
+            <div>
+                <h2 class="subtitle"> Schedule </h2>
+            </div>
+
+            <div class="table-responsive timetable">
+                <table class="table table-hover">
+                    <thead class="table-dark">
+                        <tr>
+                            <th>W/C 8th Aug</th>
+                            <th>TIME</th>
+                            <th>CLASS</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                        <tr>
+                            <td rowspan="2">MON</td>
+                            <td>1830-1930</td>
+                            <td>Rhythm Tap</td>
+
+                        </tr>
+                        <tr>
+                            <td>1930-2030</td>
+                            <td>Theatre Tap</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2">TUES</td>
+                            <td>1930-2030</td>
+                            <td>Contemporary Jazz</td>
+
+                        </tr>
+                        <tr>
+                            <td>2030-2130</td>
+                            <td>Street Jazz</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2">WED</td>
+                            <td>1830-1930</td>
+                            <td>Beginners Tap</td>
+
+                        </tr>
+                        <tr>
+                            <td>1930-2030</td>
+                            <td>Lyrical Jazz</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2">THURS</td>
+                            <td>1900-2000</td>
+                            <td>Beginners Ballet</td>
+
+                        </tr>
+                        <tr>
+                            <td>2000-2100</td>
+                            <td>Intermediate Ballet</td>
+                        </tr>
+                        <tr>
+                            <td rowspan="2">FRI</td>
+                            <td>1830-1930</td>
+                            <td>Pointe Ballet</td>
+
+                        </tr>
+                        <tr>
+                            <td>1930-2030</td>
+                            <td>Theatre Tap</td>
+                        </tr>
+                    </tbody>
+                </table>
+            </div>
+        </section>
+
+       <!-- Contact -->
+       <section id="contact">
+
+            <div>
+                <h2 class="subtitle"> Stay In Touch </h2>
+                <p class="text"> If you'd like to know more about DANCE:LDN, or, if you need help to access our 
+                    classes, then please get in touch.  <br> Give us a call on 0800 123 4567, or drop 
+                    us a line at info@danceldn.co.uk, and our lovely volunteers will be happy to help.</p>
+            </div>
+        
+        </section>
+
+        <!-- Newsletter -->
+        <section>
+
+            <div>
+                <form novalidate action="action_page.php" class="newsForm" id="form">
+
+                    <div class="container greybackground">
+                      <h2 class="heading">Subscribe to our Newsletter</h2>
+                      <p class="text">Get weekly updates on upcoming classes.</p>
+                    </div>
+                  
+                    <div for="mail" class="container">
+                      <input type="email" placeholder="Email address" name="mail" id="mail" required>
+                      <span class="error" aria-live="polite"></span>
+                    </div>
+                  
+                    <div class="container greybackground">
+                      <button type="submit" class="submit">Submit form</button>
+                      <p class="thanks" id="log"></p>
+
+                    </div>
+
+                </form>
+            </div>
+
+        
+        </section>
+
+        <!-- To top button -->
+        <button type="button" class="btn btn-floating btn-lg arrowbutton" id="back-to-top-btn">
+            <span class="fa fa-arrow-up" aria-hidden="true"></span>
+        </button>
+
+    </main>
+
+    <footer>
+
+        <!-- Bottom navbar -->
+        <div class="bottomnav">
+            <ul>
+                <li><a href="https://twitter.com/" target="_blank"><span class="fa fa-twitter" aria-hidden="true"></span></a></li>
+                <li><a href="https://www.facebook.com/" target="_blank"><span class="fa fa-facebook" aria-hidden="true"></a></li>
+                <li><a href="https://www.instagram.com/" target="_blank"><span class="fa fa-instagram" aria-hidden="true"></a></li>
+            </ul>
+            <br><br>
+            <h5 class="footnote">DANCE:LDN, Studio 5, Dance St, London, SW9 6DE | info@danceldn.co.uk | 0800 123 4567</h5>
+            <br><br>
+            <h5 class="copyright">Powered by NJC Design © 2022</h5>
+        </div>
+
+    </footer>
+
+      <script src="script.js"></script>
+
+      <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+</body>
+</html>
