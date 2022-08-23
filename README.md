@@ -25,24 +25,24 @@ WHAT WENT WELL
 
 WHERE I STRUGGLED
 - split navbar without bootstrap (solved by using flex box in parent ul element, so that float right didn't reverse the order of my navbar links)
-- couldn't fix position of navbar, tried changig z index but it still made navbar see through
+- couldn't fix position of navbar, tried changing z index but it still made the navbar see through
 - didn't have time to do JavaScript buttons
 - designed for laptop screen first and had trouble making it responsive (mobile first next time!!!)
 - dropdown navbar without bootstrap (solved with JavaScript adding reponsive class and changing display to block)
 - making buttons round (solved by reducing width)
 - not accepting empty form (solved by required attribute)
-- social media links aren't central
+- couldn't centre social media links
 
 WHAT I LEARNT
 - better understanding of box-model
 - understand what float right does
-- better understanding od cascading styles
+- better understanding of cascading styles
 - better understanding of JavaScript logic and event listeners
 - font awesome!
 - HTML elements
 - bootstrap
-- forms
-- tables 
+- JavaScript form validation
+- HTML tables 
 - mobile first responsive design
 
 COURSE COMPLETION AWARD
