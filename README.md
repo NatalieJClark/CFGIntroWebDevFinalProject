@@ -53,7 +53,12 @@ I made a responsive website, for a fictional dance studio, using HTML, CSS and J
 
 ## COURSE COMPLETION AWARD
 
-I was very pleased to win joint first place in the final project competition and was awarded a 'Highly Commended' certificate!
+I was very pleased to win joint **first place** in the final project competition and was awarded a **Highly Commended** certificate!
 
-<img width="697" alt="image" src="https://user-images.githubusercontent.com/107806810/186195275-c7e91975-ed70-46ec-8329-241b7de8a3a7.png">
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/107806810/186195275-c7e91975-ed70-46ec-8329-241b7de8a3a7.png">
 
+## REFERENCES
+
+Images used from:
+- https://otimabusedancestudio.com/
+- https://www.city-academy.com/dance-classes
