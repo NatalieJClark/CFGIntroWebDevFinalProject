@@ -1,51 +1,53 @@
-**DANCE:LDN**
+# **DANCE:LDN**
 
-This is my final project for the Code First Girls Intro to Web Dev Course.
+This is my final project for the **Code First Girls - Intro to Web Dev Course**.
 
 I made a responsive website, for a fictional dance studio, using HTML, CSS and JavaScript.
 
-PROJECT REQUIREMENTS
+## PROJECT REQUIREMENTS
 
-Must Have:
+### Must Have:
 1. At least 2 HTML pages and one external CSS file
 2. Consistent navbar on all pages
 3. Styled well
 4. All links working
-5. Basic user interaction (ex: hover, submit form, action on click)
+5. Basic user interaction (eg: hover, submit form, action on click)
 
-Nice to Have:
+### Nice to Have:
 1. Mobile-responsive website
 2. Effective use of classes and IDs
 3. JavaScript used to enable user interaction
 
-WHAT WENT WELL
-- styling CSS
+## PROJECT EVALUATION
+
+### What Went Well:
+- Styling CSS
 - HTML semantic layout
-- links
+- Links
 
-WHERE I STRUGGLED
-- split navbar without bootstrap (solved by using flex box in parent ul element, so that float right didn't reverse the order of my navbar links)
-- couldn't fix position of navbar, tried changing z index but it still made the navbar see through
-- didn't have time to do JavaScript buttons
-- designed for laptop screen first and had trouble making it responsive (mobile first next time!!!)
-- dropdown navbar without bootstrap (solved with JavaScript adding reponsive class and changing display to block)
-- making buttons round (solved by reducing width)
-- not accepting empty form (solved by required attribute)
-- couldn't centre social media links
+### Where I Struggled:
+- Split navbar without bootstrap (solved by using flex box in parent ul element, so that float right didn't reverse the order of my navbar links)
+- Couldn't fix position of navbar, tried changing z index but it still made the navbar see through
+- Didn't have time to do JavaScript buttons
+- Designed for laptop screen first and had trouble making it responsive (mobile first next time!!!)
+- Dropdown navbar without bootstrap (solved with JavaScript adding reponsive class and changing display to block)
+- Making buttons round (solved by reducing width)
+- Not accepting empty form (solved by required attribute)
+- Couldn't centre social media links
 
-WHAT I LEARNT
-- better understanding of box-model
-- understand what float right does
-- better understanding of cascading styles
-- better understanding of JavaScript logic and event listeners
-- font awesome!
+### What I Learnt:
+- Better understanding of box-model
+- Understand what float right does
+- Better understanding of cascading styles
+- Better understanding of JavaScript logic and event listeners
+- Font awesome!
 - HTML elements
-- bootstrap
+- Bootstrap
 - JavaScript form validation
 - HTML tables 
-- mobile first responsive design
+- Mobile first responsive design
 
-COURSE COMPLETION AWARD
+## COURSE COMPLETION AWARD
 
 I was very pleased to win joint first place in the final project competition and was awarded a 'Highly Commended' certificate!
 
