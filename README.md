@@ -22,7 +22,7 @@ I made a responsive website, for a fictional dance studio, using HTML, CSS and J
 
 ## PROJECT SCREENSHOT
 
-<img width="1440" alt="image" src="https://user-images.githubusercontent.com/107806810/210264687-9e742238-0567-41d0-a841-d39b1c55d9ee.png">
+[<img width="1440" alt="image" src="https://user-images.githubusercontent.com/107806810/210264687-9e742238-0567-41d0-a841-d39b1c55d9ee.png">](https://nataliejclark.github.io/danceldn/)
 
 ## PROJECT EVALUATION
 
