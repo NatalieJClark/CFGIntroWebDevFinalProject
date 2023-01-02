@@ -57,7 +57,7 @@ I was very pleased to win joint **first place** in the final project competition
 
 <img width="1440" alt="image" src="https://user-images.githubusercontent.com/107806810/186195275-c7e91975-ed70-46ec-8329-241b7de8a3a7.png">
 
-## REFERENCES
+## SOURCES
 
 Images used from:
 - https://otimabusedancestudio.com/
