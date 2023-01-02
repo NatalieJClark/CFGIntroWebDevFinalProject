@@ -18,6 +18,10 @@ I made a responsive website, for a fictional dance studio, using HTML, CSS and J
 2. Effective use of classes and IDs
 3. JavaScript used to enable user interaction
 
+## PROJECT SCREENSHOT
+
+<img width="1440" alt="image" src="https://user-images.githubusercontent.com/107806810/210264687-9e742238-0567-41d0-a841-d39b1c55d9ee.png">
+
 ## PROJECT EVALUATION
 
 ### What Went Well:
