@@ -1,4 +1,4 @@
-DANCE:LDN
+**DANCE:LDN**
 
 This is my final project for the Code First Girls Intro to Web Dev Course.
 
