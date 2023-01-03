@@ -61,6 +61,6 @@ I was very pleased to win joint **first place** in the final project competition
 
 ## SOURCES
 
-Images used from:
+### Images used from:
 - https://otimabusedancestudio.com/
 - https://www.city-academy.com/dance-classes
