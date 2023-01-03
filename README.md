@@ -4,7 +4,7 @@ This is my final project for the **Code First Girls - Intro to Web Dev Course**.
 
 I made a responsive website, for a fictional dance studio, using HTML, CSS and JavaScript.
 
-[View live site](https://nataliejclark.github.io/danceldn/)
+<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/solid/arrow-up-right-from-square.svg" width="25" height="25"> [View live site](https://nataliejclark.github.io/danceldn/)
 
 ## PROJECT REQUIREMENTS
 
